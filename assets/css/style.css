@@ -363,7 +363,7 @@ main {
 }
 
 .avatar-box {
-  background: var(--bg-gradient-onyx);
+  background: none;
   border-radius: 20px;
 }
 
@@ -1989,8 +1989,10 @@ textarea.form-input::-webkit-resizer {
 
   .avatar-box img {
     width: 150px;
+    border:2px solid #f5576c;
+    border-radius:200px;
+   
   }
-
   .info-content .name {
     white-space: nowrap;
     text-align: center;
