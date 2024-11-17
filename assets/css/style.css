@@ -1993,16 +1993,9 @@ textarea.form-input::-webkit-resizer {
     flex-direction: column;
   }
 
-  .avatar-boxpic img {
-    width: 150px;
-    border:2px solid #f5576c;
-    border-radius:200px;
-   
-  }
-
   .avatar-box img {
     width: 150px;
-    border:2px ;
+    border:2px solid #f5576c;
     border-radius:200px;
    
   }
